@@ -1,0 +1,10 @@
+{
+  "name": "Open_url-timer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Wilf17 <lihounhintowilfrid.youngsavage@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^23.10.1"
+  }
+}
